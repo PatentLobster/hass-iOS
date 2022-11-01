@@ -400,7 +400,7 @@ Home Assistant ist eine kostenlose und quelloffene Hausautomatisierungssoftware 
 "settings_details.general.open_in_browser.safari" = "Apple Safari";
 "settings_details.general.open_in_browser.safari_in_app" = "Apple Safari (in App)";
 "settings_details.general.open_in_browser.title" = "Links öffnen in";
-"settings_details.general.open_in_private_tab.title" = "Open in Private Tab";
+"settings_details.general.open_in_private_tab.title" = "In privatem Tab öffnen";
 "settings_details.general.page_zoom.default" = "%@ (Standard)";
 "settings_details.general.page_zoom.title" = "Seitenzoom";
 "settings_details.general.pinch_to_zoom.title" = "Zum Zoomen mit 2 Fingern auseinander wischen";
